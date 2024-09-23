@@ -1,2 +1,2 @@
-# Webdesignforeveryone.github.io
-The websign for WebDesign For Everyone
+# Webdesignforeveryone.github
+The websign for WebDesign
